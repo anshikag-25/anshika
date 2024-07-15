@@ -4,4 +4,4 @@
 
 //Mohit Smarth Arora
 
-//updated
+//updatedgit config --global --get user.nameK
